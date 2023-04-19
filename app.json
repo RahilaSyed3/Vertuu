@@ -1,0 +1,48 @@
+{
+  "id": "77b6bf3d-18e3-4d34-bf23-d22b113777c2",
+  "name": "Dynamo Report Package",
+  "publisher": "Dynamo",
+  "version": "1.20.3.3",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "0f30fcab-5ea0-4345-ba83-a32015759fbe",
+      "name": "Versapay ChargeLogic Payments",
+      "publisher": "Versapay",
+      "version": "4.2.5.4365"
+    },
+    {
+      "id": "d539aff9-9bd1-4fa0-afad-65cda6c93439",
+      "name": "Vertuu Extension",
+      "publisher": "E-foqus",
+      "version": "1.0.0.26"
+    },
+    {
+      "id": "4714e6b7-6fde-4a8b-9c39-c2da3f239396",
+      "name": "Versapay Base",
+      "publisher": "Versapay",
+      "version": "1.3.4.4213"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 60000,
+      "to": 60009
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": false,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}
